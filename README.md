@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-![AlgoVis Screenshot](https://via.placeholder.com/900x500/04070f/00d4ff?text=AlgoVis+DSA+Visualizer)
+![AlgoVis Screenshot](screenshots/algovis.png)(screenshots/algovis2.png)
 
 ---
 
