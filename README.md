@@ -223,9 +223,8 @@ MIT License — free for personal and commercial use.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [your-website.com](https://your-website.com)
+- GitHub: [@swathi25-09](https://github.com/swathi25-09)
+- LinkedIn: [swathi-javvadi](https://www.linkedin.com/in/swathi-javvadi/)
 
 ---
 
