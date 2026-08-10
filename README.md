@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-![AlgoVis Screenshot](screenshots/algovis.png)(screenshots/algovis2.png)
+![AlgoVis Screenshot](algovis.png)(algovis2.png)
 
 ---
 
