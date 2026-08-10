@@ -92,7 +92,7 @@ algovis/
 
 ### Option 1 — Just open it
 ```bash
-git clone https://github.com/your-username/algovis.git
+git clone https://github.com/swathi25-09/algovis.git
 cd algovis
 # Open index.html in any modern browser
 open index.html        # macOS
@@ -222,7 +222,7 @@ MIT License — free for personal and commercial use.
 
 ## 👤 Author
 
-**Your Name**
+**Swathi Javvadi**
 - GitHub: [@swathi25-09](https://github.com/swathi25-09)
 - LinkedIn: [swathi-javvadi](https://www.linkedin.com/in/swathi-javvadi/)
 
